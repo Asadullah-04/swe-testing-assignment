@@ -14,4 +14,4 @@ py -m pip install -r requirements.txt
 py -m quickcalc.cli "5 + 3 ="
 
 py -m quickcalc.cli "10 / 0 ="
-py -m pytest
+py -m pytest```
