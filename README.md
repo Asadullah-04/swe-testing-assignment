@@ -8,16 +8,16 @@ Quick-Calc is a simple calculator application that supports addition, subtractio
 ```bash
 git clone https://github.com/Asadullah-04/swe-testing-assignment.git
 cd swe-testing-assignment
-```
-```bash
+
+
 ### 2) Install dependencies
 py -m pip install -r requirements.txt
-```
-```bash
+
+
 ## Run the Application
 py -m quickcalc.cli "5 + 3 ="
 py -m quickcalc.cli "10 / 0 ="
-```bash
+
 ## How to Run Tests
 py -m pytest
 ```
